@@ -14,5 +14,6 @@ namespace VehicleTraining
 
         public abstract void start();
         public abstract void speed();
+        public abstract void stop();    
     }
 }

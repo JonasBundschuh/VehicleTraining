@@ -37,6 +37,11 @@ namespace VehicleTraining
             Console.WriteLine("LKW fährt jetzt mit 120 kmh!");
         }
 
-        
+        public override void stop()
+        {
+            Console.WriteLine($"Der LKW hat angehalten!");
+        }
+
+
     }
 }
