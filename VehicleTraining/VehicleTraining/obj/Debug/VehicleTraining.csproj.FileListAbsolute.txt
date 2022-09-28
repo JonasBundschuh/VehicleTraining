@@ -1,0 +1,8 @@
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\obj\Debug\VehicleTraining.csproj.AssemblyReference.cache
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\obj\Debug\VehicleTraining.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\obj\Debug\VehicleTraining.csproj.CoreCompileInputs.cache
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\bin\Debug\VehicleTraining.exe.config
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\bin\Debug\VehicleTraining.exe
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\bin\Debug\VehicleTraining.pdb
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\obj\Debug\VehicleTraining.exe
+C:\Projetcs\VehicleTraining\VehicleTraining\VehicleTraining\obj\Debug\VehicleTraining.pdb

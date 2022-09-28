@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace VehicleTraining
 {
-    internal class Vehicles
+    public abstract class Vehicles
     {
+        public abstract void Print();
+        
+        public abstract void beladen();
+
+        public abstract void start();
+        public abstract void speed();
     }
 }
